@@ -57,8 +57,8 @@ button#signUp {
 }
 
 header {
-  padding: 96px, 0px, 96px, 0px;
-  height: 407px;
+  padding: 96px 0px;
+  height: 300px;
 }
 
 span {
@@ -66,14 +66,15 @@ span {
   justify-content: center;
   color: var(--color-destaque);
   font-weight: 600px;
-  padding: 15px;
 }
 
-h1 {
+.titulo-header {
   color: var(#101828);
   font-weight: 600px;
   display: flex;
   justify-content: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 p {
@@ -81,4 +82,79 @@ p {
   color: var(--text-color);
   display: flex;
   justify-content: center;
+}
+
+.metricas-container {
+  display: flex;
+  padding-bottom: 96px;
+  align-items: center;
+  gap: 64px;
+}
+
+.containers {
+  width: auto;
+  padding: 0px 3rem;
+  gap: 2rem;
+
+}
+
+.titulo-metricas {
+  color: var(--color-destaque);
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 72px;
+  letter-spacing: -1.2px; 
+}
+
+.sub-metricas {
+  color:var(--color-cinza);
+  font-size: 18px;
+  font-weight: 500;
+  justify-content: start;
+  line-height: 28px;
+}
+
+.texto-metricas {
+  color:var(--text-color);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.talentos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap:15px;
+}
+
+.talentos-vagas{
+  color: var(--color-destaque);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 25px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #8E24240D;
+  
+  
+}
+
+.talentos-titulo {
+  justify-content: center;
+  font-size: 36px; 
+  font-weight: 600; 
+  color: var(--color-cinza);
+}
+
+.talentos-texto {
+font-size: 20px;
+font-weight: 400;
+color:var(--text-color);
+}
+
+.talentos-imagem {
+width: auto;
+height: 400px;
+flex-shrink: 0; 
 }
