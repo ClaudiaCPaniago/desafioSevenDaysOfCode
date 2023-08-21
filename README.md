@@ -1,4 +1,4 @@
-# esafioSevenDaysOfCode
+# desafioSevenDaysOfCode
 
 Realizado um desafio proposta pela alura durante 7 dias consecutivos de HTML e CSS. A instrutora Giovanna Moeller mandava por E-mail a cada dia o desafio do dia, começamos pelo cabeçalho da página depois passamos pelas seçcões da pagina e terminando pelo rodapé. 
 
