@@ -14,9 +14,5 @@ Realizado um desafio proposta pela alura durante 7 dias consecutivos de HTML e C
 * Grid
 <br>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
-<br>
-
 O link do site para a realização do Desafio: <br> 
 https://7daysofcode.io/matricula/html-css
